@@ -43,7 +43,7 @@ EasyCalc/
 
 ## Author
 
-Developed by **Harsh Trivedi**
+Developed by **Jyoti Kumari**
 
 ## License
 
